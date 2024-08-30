@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1724978165310') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wechat-fill:before {
+  content: "\e883";
+}
+
+.icon-github-fill:before {
+  content: "\e885";
+}
+
+.icon-qq-fill:before {
+  content: "\e6c8";
+}
+
+.icon-information:before {
+  content: "\e857";
+}
+
+.icon-email-fill:before {
+  content: "\e856";
+}
+
